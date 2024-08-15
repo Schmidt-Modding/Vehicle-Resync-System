@@ -4,11 +4,11 @@ Das Vehicle Resync System stellt sicher, dass alle Fahrzeugdaten auf deinem Five
 
 # 📋 Tutorial: Wie nutze ich das Vehicle Resync System?
 
-# Nähe dich dem Fahrzeug:
+Nähe dich dem Fahrzeug:
 Geh zu dem Fahrzeug, das du resynchronisieren möchtest. Du musst nah dran sein oder im Fahrzeug sitzen. 🚶‍♂️🚗
 
-# Befehl eingeben:
+Befehl eingeben:
 Gib im Chat den Befehl /dv2 ein. 💬
 
-# Fertig!
+Fertig!
 # Das Fahrzeug wird jetzt resynchronisiert, und alle Spieler auf dem Server sehen es in der richtigen Position und im korrekten Zustand.
